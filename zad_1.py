@@ -12,6 +12,6 @@ class Student:
         return self.marks>50
 
 student1=Student('Antoni',60)
-student2=Student('Dawid',60)
+student2=Student('Dawid',40)
 print(student1.is_passed)
 print(student2.is_passed)
