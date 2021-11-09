@@ -81,6 +81,18 @@ class Zamowienie:
         self.ilosci = ilosci
 
 
+    #@property
+   # def idzamowienia(self, val: int) -> None:
+    #    self.idzamowienia = val
+
+   # @property
+   # def idklienta(self, val: int) -> None:
+     #   self.idklienta = val
+
+   # @property
+   # def klient(self, val: KlientDetaliczny) -> None:
+     #   self.klient = val
+
 
 
     def __str__(self):
