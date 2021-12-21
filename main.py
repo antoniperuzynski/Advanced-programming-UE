@@ -12,7 +12,7 @@ zamowienie = Zamowienie()
 zamowienie.order_id = 1
 zamowienie.client = pacjent
 zamowienie.date = datetime(2021, 1, 13)
-zamowienie.products = [dieta1, dieta2]
+zamowienie.diety = [dieta1, dieta2]
 zamowienie.status = "Dostarczone"
 
 print(zamowienie)
