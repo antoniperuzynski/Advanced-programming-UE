@@ -1,2 +1,0 @@
-# ZP_LAB_UE_INX
-# KONFLIKT
